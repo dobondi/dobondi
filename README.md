@@ -10,12 +10,6 @@ I believe that a lot of people's lives have been improved and can further be enh
 </br>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dobondi&repo=dobondidavid&theme=radical" />
-  </p>
-
-</br>
-
-<p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobondi&theme=radical" />
   
 </p>
