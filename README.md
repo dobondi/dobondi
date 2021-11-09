@@ -4,7 +4,7 @@ As a Frontend Developer, I enjoy crafting modern websites that are not only beau
 
 #### Personal website & portfolio: www.dobondidavid.work 🐱‍💻
 #### Resume: www.dobondidavid.work/CV 📄 
-#### LinkedIn: https://www.linkedin.com/in/daviddobondi/ 🔗
+#### LinkedIn: www.linkedin.com/in/daviddobondi 🔗
 
 
 <!-- </br>
