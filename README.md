@@ -1,9 +1,10 @@
-### Hi there 👋
+## Dobondi David, Frontend Developer 💻
 
 As a Frontend Developer, I enjoy crafting modern websites that are not only beautifully designed but also fast and reliable. I excel at creating responsive designs, accessible content for everybody, optimized pages for search engines (SEO) and powerful performant websites. My daily tools are HTML, CSS, JavaScript and React, but I am passionate about learning something new every day, whether it's a fresh technology, a brilliant design concept or a handy trick. I believe that a lot of people's lives have been improved and can further be enhanced by the benefits of our World Wide Web, therefore I want to contribute my fair share to its development.
 
-## Personal website & portfolio: www.dobondidavid.work
-## Resume: www.dobondidavid.work/CV
+#### Personal website & portfolio: www.dobondidavid.work 🐱‍💻
+#### Resume: www.dobondidavid.work/CV 📄 
+##### LinkedIn: https://www.linkedin.com/in/daviddobondi/ 🔗
 
 
 <!-- </br>
